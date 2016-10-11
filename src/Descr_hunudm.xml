@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="hun"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>The material is based on the following dictionary compiled at the University of Szeged, Hungary:
+
+István Kozmác: Udmurt-magyar szótár
+
+transducers by Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>The material was prepared for electronic publication by István Kozmács and Jack Rueter.
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote> </lics>
+<e>
+   <lg>
+     <l pos="Descr">alig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">аштыр-мыштыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">beeee</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бе-е-е</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">bodros</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бабыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">bodros-fodros</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бабыль-бабыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">borult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бекмыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">buggy</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бультыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">buggy-buggy</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">буль-буль</t>
+       <t Contlex="DESCR_" pos="Descr">бульыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">bugyborékol</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бугыль-бугыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">bugyog</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бугыль-бугыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">bő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бул-бул</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">csillogó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">балли</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">dub-dub</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бырк-бырк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ferde</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бекмыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ferdén</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">быкыр-бекыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">gomolyog</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бугыр-бугыр</t>
+       <t Contlex="DESCR_" pos="Descr">бугыр</t>
+       <t Contlex="DESCR_" pos="Descr">бугырак-бугырак</t>
+       <t Contlex="DESCR_" pos="Descr">бугырак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">gomolyogva</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бугырак-бугырак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">gyermek sírásának hangfestésére használt hangsor</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">быз-з</t>
+       <t Contlex="DESCR_" pos="Descr">быз-з</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">göndör</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бабыль-бабыль</t>
+       <t Contlex="DESCR_" pos="Descr">бабыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">görbén</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">быкыр-бекыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">hevesen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бычырак</t>
+       <t Contlex="DESCR_" pos="Descr">бычыр-бычыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">hirtelen elönti az izzadság</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бычыр-бычыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">hirtelen kihajt vagy kirügyezik</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бычыр-бычыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">hirtelen kihajt vgay kirügyezik</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бычырак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ide-oda</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">алпан-тулпан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">kacsázva</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">алпан-тулпан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">kidülledt szemmel</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">быльк</t>
+       <t Contlex="DESCR_" pos="Descr">быльк-быльк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">kimeresztett szemmel</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">быльк</t>
+       <t Contlex="DESCR_" pos="Descr">быльк-быльк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">kipp-kopp</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бырк-бырк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">könnyes a szeme</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">быльыр</t>
+       <t Contlex="DESCR_" pos="Descr">быльырак</t>
+       <t Contlex="DESCR_" pos="Descr">быльыр-быльыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">könnyezik a szeme</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">быльыр</t>
+       <t Contlex="DESCR_" pos="Descr">быльырак</t>
+       <t Contlex="DESCR_" pos="Descr">быльыр-быльыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">kövérkés</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">быгыль-быгыль</t>
+       <t Contlex="DESCR_" pos="Descr">быгыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">laza</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">буграк</t>
+       <t Contlex="DESCR_" pos="Descr">бускыль-бускыль</t>
+       <t Contlex="DESCR_" pos="Descr">бускыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">laza hó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бук-бук</t>
+       <t Contlex="DESCR_" pos="Descr">бус-бус</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">le-föl</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">алпан-тулпан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">lezser</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бул-бул</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">luha</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бук-бук</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">lágy</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">буй-буй</t>
+       <t Contlex="DESCR_" pos="Descr">быг-быг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">lágyan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">буй-буй</t>
+       <t Contlex="DESCR_" pos="Descr">быг-быг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">lötyögő ruha</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бул-бул</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">mály, basszus hang</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">боз-боз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">némán</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">ак но бак но</t>
+       <t Contlex="DESCR_" pos="Descr">ак но бак</t>
+       <t Contlex="DESCR_" pos="Descr">ак-бак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">omlós</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">буграк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">pelyhes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бускыль-бускыль</t>
+       <t Contlex="DESCR_" pos="Descr">бускыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">pelyhes hó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бус-бус</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">pezseg</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бугыль-бугыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">potty</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бултык</t>
+       <t Contlex="DESCR_" pos="Descr">бултых</t>
+       <t Contlex="DESCR_" pos="Descr">булькак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">potty!</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бульк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">puha</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">буй-буй</t>
+       <t Contlex="DESCR_" pos="Descr">быг-быг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">puhán</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">буй-буй</t>
+       <t Contlex="DESCR_" pos="Descr">быг-быг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ragyogóan fénylő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">алли-балли</t>
+       <t Contlex="DESCR_" pos="Descr">алли-но-балли</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">rovar döngése</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">быз-быз</t>
+       <t Contlex="DESCR_" pos="Descr">быз-з</t>
+       <t Contlex="DESCR_" pos="Descr">быз</t>
+       <t Contlex="DESCR_" pos="Descr">быз-быз</t>
+       <t Contlex="DESCR_" pos="Descr">быз-з</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">szótlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">ак но бак но</t>
+       <t Contlex="DESCR_" pos="Descr">ак но бак</t>
+       <t Contlex="DESCR_" pos="Descr">ак-бак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">sűrűn gomolyogva</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бурсак-бурсак</t>
+       <t Contlex="DESCR_" pos="Descr">бурсак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">telt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">быгыль-быгыль</t>
+       <t Contlex="DESCR_" pos="Descr">быгыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">valahogy</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">аштыр-мыштыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">zsupsz</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">булькак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">zsupsz!</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бульк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">zzzzzzzzzz</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">быз-быз</t>
+       <t Contlex="DESCR_" pos="Descr">быз-з</t>
+       <t Contlex="DESCR_" pos="Descr">быз</t>
+       <t Contlex="DESCR_" pos="Descr">быз-быз</t>
+       <t Contlex="DESCR_" pos="Descr">быз-з</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">átfordult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бекмыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ömlik a könnye</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="DESCR_" pos="Descr">бычыр-бычыр</t>
+     </tg>
+   </mg>
+</e>
+</r>

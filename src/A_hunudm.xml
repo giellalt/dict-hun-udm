@@ -1,0 +1,7231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="hun"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>The material is based on the following dictionary compiled at the University of Szeged, Hungary:
+
+István Kozmác: Udmurt-magyar szótár
+
+transducers by Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>The material was prepared for electronic publication by István Kozmács and Jack Rueter.
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote> </lics>
+
+<e>
+   <lg>
+     <l pos="A">-arsin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аршинъем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">-rőf</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аршинъем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">abszolút</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">абсолютной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">absztrakt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">абстрактной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">abszurd</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">блама</t>
+       <t Contlex="A_" pos="A">былама</t>
+       <t Contlex="A_" pos="A">былама</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">achát</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агат</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">acél oldalú</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">андан бамо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">acél-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">андан</t>
+       <t Contlex="A_" pos="A">андано</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">adminisztratív</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">администрацио</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">adminisztrációs</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">административной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">adminisztrációs-területi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">административно-территориальной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">adzsár</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аджар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">agitációs</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агитационной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">agitáló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агитационной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">agresszív</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агрессивной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">agrár</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аграрной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">agyagpala-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аргиллит</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">akadémiai</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">академической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">akkord-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аккордной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">akkreditált</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аккредитировать карем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">akkumulátor-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">батарейной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">akrobatikus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">акробатической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">aktas-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">акташ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">aktuális</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">актуальной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">aktív</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">активной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">akvarell-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">акварель</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">alacsony</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">ажмак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">alacsony hang</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бозгес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">alaptörvénynek megfelelő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">Кункат</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">algebrai</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алгебраической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">alkohol-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алкоголь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">alkotmányos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">Кункат</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">alma-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">багалма</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">almásszürke</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бурлы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">aloé-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">alumínium-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алюмень</t>
+       <t Contlex="A_" pos="A">алюминий</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">amerikai</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">американ</t>
+       <t Contlex="A_" pos="A">американской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">analitikus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аналитической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">anatómiai</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">анатомической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">angol</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">английской</t>
+       <t Contlex="A_" pos="A">англичан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">antagonisztikus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">антагонистической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">antifasiszta-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">антифашистской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">antik</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">античной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">antikvár</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">букинистической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">anyai</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">анайлыко</t>
+       <t Contlex="A_" pos="A">анаё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">anyasági</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">анайлыко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">anyás</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">анаё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">anyátlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">анайтэм</t>
+       <t Contlex="A_" pos="A">анӥтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">apatit-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">апатит</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">apátlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">айытэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">apátlan-anyátlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">айытэм-мумытэм</t>
+       <t Contlex="A_" pos="A">атай-анайтэм</t>
+       <t Contlex="A_" pos="A">атайтэм-анайтэм</t>
+       <t Contlex="A_" pos="A">бубытэм-мумытэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">arab-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">араб</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">archív</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">архивной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">arcátlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бамтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">arcú</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бамо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">arisztokrata-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аристократ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">arisztokratikus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аристократической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">aritmetikus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арифметической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">arsinnyi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аршинъем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">artériás</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">артериальной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">artézi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">артезианской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">aszfalt-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асфальт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">atamán-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">атаман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">atomi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">атомной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">augusztusi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">август</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ausztriai</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">австрийской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">autogén</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">автогенной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">automatikus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">автоматической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">autonóm</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">автономио</t>
+       <t Contlex="A_" pos="A">автономной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">avantgárd</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">авангардной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">avar</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">авар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">azbeszt-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асбест</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">azerbajdzsán</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азербайджан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">balett-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">балет</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">balkár-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">балкар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bambusz-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бамбук</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bankett-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">банкет</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">banán-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">банан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">barack</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">абрикос</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">barhent-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бумазей</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">barátságos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асьык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">barázdás</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бороздаё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">baskír-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">башкир</t>
+       <t Contlex="A_" pos="A">башкырт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">basszus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бозгес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">basszus-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bazalt-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">базальт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">begónia-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бегония</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">behavazott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">букос</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">behomokozott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">букос</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">belga-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бельгийской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">belorusz-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">белорус</t>
+       <t Contlex="A_" pos="A">белорусской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">benőtt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">beszermán-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бесермян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">beszédes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бакор</t>
+       <t Contlex="A_" pos="A">бакорливой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">besúgó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алекчи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bibliai</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">библейской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bicska</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">баки</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">biliárd-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бильярдной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">billegő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бекыро</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">biológiai</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">биологической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bioszférikus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">биосфера</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bodros</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бабля</t>
+       <t Contlex="A_" pos="A">бабылес</t>
+       <t Contlex="A_" pos="A">бабылё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bogaras</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асныро</t>
+       <t Contlex="A_" pos="A">асныръем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bogáncs-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арыкман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">boldog</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">блажен</t>
+       <t Contlex="A_" pos="A">блаженной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bolgár-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">болгар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bolond</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">байгыш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bolsevik-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">большевизмо</t>
+       <t Contlex="A_" pos="A">большевистской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bolti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">базарной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">borbolya-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">барбарис</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bordó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бардовой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bosszantó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">беспӧртэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">botos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бодыё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">brigád-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бригадной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bulgár-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">болгар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">burgonya-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">булгы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">burját-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бурят</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">burzsoá</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">буржуазной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">buta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">байгыш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">báli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бал</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bántó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">адӟонтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bárgyú</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">берланес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bársony-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бархат</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bársonyos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бархат</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bátor</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">батыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bíborvörös szövet-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бурлат</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bödros</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бабыля</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bödön-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бидон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bölény-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бизон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">búzavirág-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бусойыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бушкырес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bőbeszédű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бакорливой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">bőséges</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">берекето</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">cejg-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алача</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">csapágyazásban használt ötvözetű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">баббит</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">csata-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">боевой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">csendes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аллак</t>
+       <t Contlex="A_" pos="A">аулак</t>
+       <t Contlex="A_" pos="A">басыл</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">csenevész</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">букыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">cserkesz</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">адыгей</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">csibész</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">актэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">csillagászati</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">астрономической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">csíkos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">буё-буё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">csúnya</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алама</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">cím</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">адресной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">címzés nélküli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">адрестэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">című</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">адресо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">dadogás</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бельтэк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">dadogó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бак</t>
+       <t Contlex="A_" pos="A">бакай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">dandár</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бригадной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">deres</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бурлы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">drága</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">адӟыса тыронтэм</t>
+       <t Contlex="A_" pos="A">асыл</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">durva</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бедэръё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">durva (hang)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бозырес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">duzzadt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быгылес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">dölyfös</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быдӟи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">egy pár jószág (hím és nőstény)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">айо-мумио</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">egyedülálló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">баймак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">egymás melletti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">артысь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">együgyű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">блаженной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">egész</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быдэс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">egészséges</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асыл</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">elfajult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">elhagyatott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аллак</t>
+       <t Contlex="A_" pos="A">аулак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ellenszenves</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">адӟемпотонтэм</t>
+       <t Contlex="A_" pos="A">адӟемпотостэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">elvadult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">elveszett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">былем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">elvont</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">абстрактной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">elöl lévő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азь</t>
+       <t Contlex="A_" pos="A">азьпал</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">elülső</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азин</t>
+       <t Contlex="A_" pos="A">азь</t>
+       <t Contlex="A_" pos="A">азьла</t>
+       <t Contlex="A_" pos="A">азьпал</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">előbbi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азьвыл</t>
+       <t Contlex="A_" pos="A">азьвылаз</t>
+       <t Contlex="A_" pos="A">азьло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">előlegbe adott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">авансовой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">emberi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">адямио</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">epilepsziás</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асчеро</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">eredményes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азинлыко</t>
+       <t Contlex="A_" pos="A">азинэс</t>
+       <t Contlex="A_" pos="A">азьланес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">eredménytelen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азинэстэм</t>
+       <t Contlex="A_" pos="A">беренэс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">erkély-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">балкон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">erős</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">батыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">erőszakos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агрессивной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">esetlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быдыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">eszes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">башлы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ezüst</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азвесь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ezüst fogú</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азвесь пиньем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ezüst szemű pl. gabona</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азвесь тысьем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">fakó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бездыт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">falánk</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асярбак</t>
+       <t Contlex="A_" pos="A">биран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">farkas</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быжо</t>
+       <t Contlex="A_" pos="A">быжо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">farkatlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быжтэм</t>
+       <t Contlex="A_" pos="A">быжтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">farkcsonti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бызьги</t>
+       <t Contlex="A_" pos="A">бызьги</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">farkú</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быжо</t>
+       <t Contlex="A_" pos="A">быжъем</t>
+       <t Contlex="A_" pos="A">быжо</t>
+       <t Contlex="A_" pos="A">быжъем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">farokkal rendelkező</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быжо</t>
+       <t Contlex="A_" pos="A">быжо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">fecsegő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бултанчи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">fedélszék-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">fehérgárdista-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">белогвардейской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">felesleges</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">артык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">felnőtt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бадӟым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">felső</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">будӟым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">feltétlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">абсолютной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">fennkölt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">благородной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ferde</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бекырес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">fiatal</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арлыдтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">flanel-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">байковой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">foglalt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бронированной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">fokozatos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">баскич-баскич</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">fokról fokra</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">баскич-баскич</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">furfangos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">амаллы</t>
+       <t Contlex="A_" pos="A">амало</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">fuólagos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">беглой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">félreeső</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аллак</t>
+       <t Contlex="A_" pos="A">аулак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">félrevezető</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алдэ-юлдэ</t>
+       <t Contlex="A_" pos="A">алдэто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">független</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асэрико</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">fülesbagoly</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бадӟым пелё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">füzes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бадё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">főúri</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аристократ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">fűz-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бадь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">fűzfa-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бадьпу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">gazdag</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бай</t>
+       <t Contlex="A_" pos="A">байлыко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">gazdaságtalan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бесхозяйственной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">gombos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бирдыё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">gomolygó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бугыро</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">gonosz</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аляк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">goromba (hang)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бозырес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">gyarló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аксыз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">gyenge</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алама</t>
+       <t Contlex="A_" pos="A">букыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">gyerekekről és betegekről: kövér, zsíros</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бозо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">gyors</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аргамак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">gyulladt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">gyógyertári</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аптечной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">gyűlöletes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">адӟемпотонтэм</t>
+       <t Contlex="A_" pos="A">адӟемпотостэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">gömbölyű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быгылес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">göndör</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бабля</t>
+       <t Contlex="A_" pos="A">бабылес</t>
+       <t Contlex="A_" pos="A">бабыли</t>
+       <t Contlex="A_" pos="A">бабыля</t>
+       <t Contlex="A_" pos="A">бабылё</t>
+       <t Contlex="A_" pos="A">бидырко</t>
+       <t Contlex="A_" pos="A">бутырка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">gőgös</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быдӟи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hadi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">боевой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hajléktalan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">беспризорной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">halott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">halvány rózsaszín</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алпыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hangsúlytalan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">безударной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hanyag</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арсыз</t>
+       <t Contlex="A_" pos="A">бертэм-азьтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">harc-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">боевой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">harcias</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">боевой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">harckocsizó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бронетанковой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">harcos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">боевой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hasznos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азинлыко</t>
+       <t Contlex="A_" pos="A">азинэс</t>
+       <t Contlex="A_" pos="A">барышо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">haszontalan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азинэстэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hatalmas</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бадӟын</t>
+       <t Contlex="A_" pos="A">быдӟым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hebegés</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бельтэк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hebegő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бак</t>
+       <t Contlex="A_" pos="A">бакай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">holnap</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аску</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">holt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">homoklepte</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">букос</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hozzáértő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">амаллы</t>
+       <t Contlex="A_" pos="A">амало</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hálás</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">благодарной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">háncs-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hársfa-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">беризь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hársfás</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">беризё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hátsó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">берлоез</t>
+       <t Contlex="A_" pos="A">берлосез</t>
+       <t Contlex="A_" pos="A">берлось</t>
+       <t Contlex="A_" pos="A">берпал</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">héje-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быркыт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hóbortos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">блаженной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hólepte</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">букос</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hörcsög-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арлан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hörghurut-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бронхит</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">húsos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быгыто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">húsvéti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">акашка</t>
+       <t Contlex="A_" pos="A">акаяшка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">hősies</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">батыр</t>
+       <t Contlex="A_" pos="A">батырлыко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ideges</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алекчи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">idegesítő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аляк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">idős</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арлыдо</t>
+       <t Contlex="A_" pos="A">арлыдъем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">igaz</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бур</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">igazságtalan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аляк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">igénytelen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арсыз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">indulatos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алекчи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ingerlékeny</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алекчи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ingyenes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">буш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">intelligens</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">башлы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">isteni</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">будӟым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">izmos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быгыто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">jelentéktelen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">букыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">jobb</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">буржык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">jobb oldali</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бурпал</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">juhar-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бадяр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">jávorszarvas-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">былан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">jó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">айбат</t>
+       <t Contlex="A_" pos="A">бур</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">jó hangulatú</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бадӟым мылкыдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">jó természetű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асьык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">jókedvű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бадӟым мылкыдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">jól olvasható (kézírásról)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асьык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">jól táplált</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бускылес</t>
+       <t Contlex="A_" pos="A">бускылё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kakas-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">атас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kanna-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бидон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kapzsi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аксым</t>
+       <t Contlex="A_" pos="A">алышной</t>
+       <t Contlex="A_" pos="A">аляк</t>
+       <t Contlex="A_" pos="A">армем</t>
+       <t Contlex="A_" pos="A">асярбак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">katonás</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">боевой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kedves</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асыл</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kellemetlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">беспӧртэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kerek</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бидырко</t>
+       <t Contlex="A_" pos="A">быглес</t>
+       <t Contlex="A_" pos="A">быгылес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">keresztcsonti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бызьги</t>
+       <t Contlex="A_" pos="A">бызьги</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kerti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бакча</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kerti eper-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">боры</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">keskeny</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">ансыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">keveset élt, látott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арлыдтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kiabálós</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">базла</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kidülledt szemű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быльккес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kiegyensúlyozatlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алекчи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kimeresztett szemű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быльккес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kimerült</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kockás</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арӟа</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">koraszülött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азьло вордӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">korlátlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">абсолютной</t>
+       <t Contlex="A_" pos="A">бессрочной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kormorán-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">баклан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">koros</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арлыдо</t>
+       <t Contlex="A_" pos="A">арлыдъем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">korábbi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азьвыл</t>
+       <t Contlex="A_" pos="A">азьвыла</t>
+       <t Contlex="A_" pos="A">азьвылаз</t>
+       <t Contlex="A_" pos="A">азьвылала</t>
+       <t Contlex="A_" pos="A">азьло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">krumpli-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">булгы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kréta-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бур</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">krétás</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бур</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">képzett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">амаллы</t>
+       <t Contlex="A_" pos="A">амало</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">késői</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">берло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kétarcú</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бамъем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kétszínű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бамъем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kópé</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">актэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kórházi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">больничной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ködös</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бус</t>
+       <t Contlex="A_" pos="A">бусмыт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">könyvelési</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бухгалтерской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">könyvtári</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">библиотечной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">kötőszó nélküli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бессоюзной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">következményes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бервыло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">közönsége</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бытовой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">lakcím</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">адрес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">laza</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арсыз</t>
+       <t Contlex="A_" pos="A">бугрес</t>
+       <t Contlex="A_" pos="A">бугырес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">laza (tea)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">байховой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">legjobb, teljes értékű gabonájú</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азь ныр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">legutóbbi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">актык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">lejtős</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бамало</t>
+       <t Contlex="A_" pos="A">бамалэс</t>
+       <t Contlex="A_" pos="A">бекмылес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">leleményes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">амаллы</t>
+       <t Contlex="A_" pos="A">амаллы</t>
+       <t Contlex="A_" pos="A">амало</t>
+       <t Contlex="A_" pos="A">амало</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">lelkiismeretlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бессовестной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">leopárd-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">барс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">leromlott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">letartóztatásba vétel</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арестовать карем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">levegőtlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">безвоздушной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">levéltári</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">архивной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">lezser</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бушкырес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">lila</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бусӥр</t>
+       <t Contlex="A_" pos="A">бусӥрмыт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">lusta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азгын</t>
+       <t Contlex="A_" pos="A">азьтэм</t>
+       <t Contlex="A_" pos="A">бертэм-азьтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">lágy</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быглес</t>
+       <t Contlex="A_" pos="A">быгылес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">láthatatlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">адӟонтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">légcsőhurut-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бронхит</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">légi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">авиационной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">légköri</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">атмосферной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">lét-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бытовой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">magányos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аллак</t>
+       <t Contlex="A_" pos="A">аулак</t>
+       <t Contlex="A_" pos="A">баймак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">mai</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алиала</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">makacs</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">акырӟан</t>
+       <t Contlex="A_" pos="A">асныро</t>
+       <t Contlex="A_" pos="A">асныръем</t>
+       <t Contlex="A_" pos="A">беренэс</t>
+       <t Contlex="A_" pos="A">берланес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">megbízhatatlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алдэ-юлдэ</t>
+       <t Contlex="A_" pos="A">алдэто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">megdőlt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бекмылес</t>
+       <t Contlex="A_" pos="A">бекырес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">megfizethetetlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">адӟыса тыронтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">meggyökerezett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">meghamisított</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аляк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">megszokott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бытовой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">mezei</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бусы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">mezőgazdasági</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агрономической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">mezőgazdasági technikai</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агротехнической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">mezőgazdasági-ipari</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агропромышленной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">mezőgazdasái</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аграрной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">mind</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быдэс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">mindennapi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бытовой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">mocsár-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">болота</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">modern</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алиала</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">mogorva</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">безэг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">mohó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аксым</t>
+       <t Contlex="A_" pos="A">алышной</t>
+       <t Contlex="A_" pos="A">аляк</t>
+       <t Contlex="A_" pos="A">армем</t>
+       <t Contlex="A_" pos="A">асярбак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">monoton</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">беспӧртэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">munkaközösségi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">артельной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">munkanélküli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">безработной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">mutatóujj-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азьчиньы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">mély</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бозгес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">mérgező</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агуло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nagy</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бадӟым</t>
+       <t Contlex="A_" pos="A">бадӟын</t>
+       <t Contlex="A_" pos="A">быдӟым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nagy fülű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бадӟым пелё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nagyevő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">армем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nagyhangú</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бакор</t>
+       <t Contlex="A_" pos="A">бакорливой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nagyharagú</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">базла</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nagyon jó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асыл</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nagyszerű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асыл</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">naplopó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азгын</t>
+       <t Contlex="A_" pos="A">азьтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">narancs-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">апельсин</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nem bőséges</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">берекеттэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nem jó (gyerekre)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">амалак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nem korlátozott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асэрико</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nem növekedett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">будонтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nem sima</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бедэръё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nem szerencsés</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">берекеттэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nem termelékeny</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азинэстэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nem állandó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">берло-азьло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nemes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">благородной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nemeslelkű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">благородной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nincs tekintélye</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">авторитеттэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nitrogén-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азот</t>
+       <t Contlex="A_" pos="A">азотной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nyafka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бызыкай</t>
+       <t Contlex="A_" pos="A">бызыкай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nyereséges</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">барышо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nyom nélküli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бертэм-азьтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nyomokkal rendelkező</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бервыло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nyomorult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аксыз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nyomtalan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бервылтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nyugodt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">басыл</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nyugtalan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аляк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">nyugtalanító</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бугрес</t>
+       <t Contlex="A_" pos="A">бугырес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">növényi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">будос</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">okos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">амаллы</t>
+       <t Contlex="A_" pos="A">амало</t>
+       <t Contlex="A_" pos="A">башлы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">oldalú</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бамо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">omlós</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бугрес</t>
+       <t Contlex="A_" pos="A">бугырес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">oroszlán-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арыслан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">országúton szállított</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">автотранспортной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ostoba</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бестолковой</t>
+       <t Contlex="A_" pos="A">блама</t>
+       <t Contlex="A_" pos="A">былама</t>
+       <t Contlex="A_" pos="A">былама</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">osztrák</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">австрийской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ovális</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быглес</t>
+       <t Contlex="A_" pos="A">быгылес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">padlizsán-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">баклажан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">patkány-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арлан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">pazarló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бесхозяйственной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">piaci</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">базарной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">piszkos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арсыз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">podzol-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">беляк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">polgári</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">буржуазной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">poroszka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">адым</t>
+       <t Contlex="A_" pos="A">адымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">puha</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быглес</t>
+       <t Contlex="A_" pos="A">быгылес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">páncél-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">броневой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">páncélos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">броневой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">páncéltörő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бронебойной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">pártonkívüli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">беспартийной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ragályos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агуло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ravasz</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">амалак</t>
+       <t Contlex="A_" pos="A">амаллы</t>
+       <t Contlex="A_" pos="A">амало</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">rejtett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аллак</t>
+       <t Contlex="A_" pos="A">аулак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">reménytelen - emberről</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">былем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">rendetlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арсыз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">repülő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">авиационной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">rezervált</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бронированной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ronggyá tépett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">акар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">rossz</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">ажмак</t>
+       <t Contlex="A_" pos="A">актык</t>
+       <t Contlex="A_" pos="A">алама</t>
+       <t Contlex="A_" pos="A">амалак</t>
+       <t Contlex="A_" pos="A">ашакы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">rámenős</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агрессивной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">régebbi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азьло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">régi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азьвыла</t>
+       <t Contlex="A_" pos="A">азьвылала</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">régészeti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">археологической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">részvény-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">акционерной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">rózsaszín</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">ал</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">rövidlátó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">близорукой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">rőfnyi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аршинъем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">sajátságos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аспӧртэм</t>
+       <t Contlex="A_" pos="A">аспӧртэмлыко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">sas-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">беркут</t>
+       <t Contlex="A_" pos="A">быркыт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">satnya</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">букыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">selyem-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">буртчин</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">sikeres</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азинлыко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">sikertelen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">беренэс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">silány</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">ажмак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">siralmas</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аксыз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">siránkozó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бызыкай</t>
+       <t Contlex="A_" pos="A">бызыкай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">sivatagi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бушкыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">sivatagos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бушкыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">sokszínű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быредо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">specifikus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аспӧртэм</t>
+       <t Contlex="A_" pos="A">аспӧртэмлыко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szabad</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асэрико</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szarufa-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">ачама</t>
+       <t Contlex="A_" pos="A">бык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szarvas-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">былан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szegény</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бедной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szemtelen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бамтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">személyes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">ас мурто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">személytelen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">безличной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szemérmetlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бамтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szent</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бадӟын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szenvedélyes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szerencsés</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">берекето</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szerzői</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">авторской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szerény</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арсыз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szeszélyes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">акырӟан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">sznet</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">будӟым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szomszéd-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бускель</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szuverén</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асэрико</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szántóföldi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бусы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szárnnyal rendelkező</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бурдъем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szárnyas</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бурдо</t>
+       <t Contlex="A_" pos="A">бурдъем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szárnyatlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бурдтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szétszaggatott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">акар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">színes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">буё</t>
+       <t Contlex="A_" pos="A">быредо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szófogadatlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">беренэс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szószátyár</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бултанчи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szökő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">беглой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szürke</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бурлы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">szűk</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">амсыр</t>
+       <t Contlex="A_" pos="A">ансыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">sár</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арсыз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">sóvár</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аксым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">sötétlila</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бусӥр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">talpraesett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">амаллы</t>
+       <t Contlex="A_" pos="A">амало</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">tarka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быредо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">tatár-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бигер</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">tavaszi ünnepi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">акашка</t>
+       <t Contlex="A_" pos="A">акаяшка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">tehetségtelen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бездарной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">tekintély nélküli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">авторитеттэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">tekintélyes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">авторитетной</t>
+       <t Contlex="A_" pos="A">авторитето</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">telet</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бускылё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">telhetetlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алышной</t>
+       <t Contlex="A_" pos="A">армем</t>
+       <t Contlex="A_" pos="A">асярбак</t>
+       <t Contlex="A_" pos="A">биран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">teljes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быдэс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">telt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бускылес</t>
+       <t Contlex="A_" pos="A">быгылес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">terhes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аклес</t>
+       <t Contlex="A_" pos="A">акылес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">termelékeny</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азинэс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">termékeny</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азинэс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">terméketlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азинэстэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">terméketlen földi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арлансюй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">testvéri</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агай-вынлыко</t>
+       <t Contlex="A_" pos="A">братской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">testvéries</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агай-вынлыко</t>
+       <t Contlex="A_" pos="A">агаё-выно</t>
+       <t Contlex="A_" pos="A">агаё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">tiszta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асьык</t>
+       <t Contlex="A_" pos="A">асьык</t>
+       <t Contlex="A_" pos="A">благородной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">tiszteletre méltó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быдӟым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">tolakodó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аклес</t>
+       <t Contlex="A_" pos="A">акылес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">tollas</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бурдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">torkos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">армем</t>
+       <t Contlex="A_" pos="A">биран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">trágár</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алама</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">tápláló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">ашо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">táérsadalmi osztály nélküli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бесклассовой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">tömegtájékoztatási</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агитационно-массовой</t>
+       <t Contlex="A_" pos="A">агитмассовой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">törökparadicsom-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">баклажан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">túlságosan kövér</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бозгам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">túlságosan zsíros</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бозгам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">türelmetlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бичура</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">tüzérségi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">артиллерийской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">unalma</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">акылес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">unalmas</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аклес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">utolsó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">актык</t>
+       <t Contlex="A_" pos="A">актык</t>
+       <t Contlex="A_" pos="A">берлоез</t>
+       <t Contlex="A_" pos="A">берлосез</t>
+       <t Contlex="A_" pos="A">берлось</t>
+       <t Contlex="A_" pos="A">берпум</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">utóbbi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">берло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">vagyonos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">байлыко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">vakond-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арлан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">vallásellenes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">антирелигиозной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">vannak szülei</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">айо-мумио</t>
+       <t Contlex="A_" pos="A">айыё-мумыё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">versenyló-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аргамак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">világegyetem-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быддунне</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">világos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асьык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">világos szín</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асьык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">világosbarna</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бездыт-курень</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">visszataszító</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">адӟемпотонтэм</t>
+       <t Contlex="A_" pos="A">адӟемпотостэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">viszálykodó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бултанчи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">viziló-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бегемот</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">vodka nélküli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аракытэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">vodkás</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аракыё</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">vákum-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">безвоздушной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">váltakozó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">берло-азьло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">véget nem érő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азьтэм-бертэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">végső</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">акыр</t>
+       <t Contlex="A_" pos="A">берпум</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">vízhatlan ponyva-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">брезент</t>
+       <t Contlex="A_" pos="A">брезентовой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">vörös kartonszövet-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бурлат</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">zablisztből készült</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">байдыс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">zagyva</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">блама</t>
+       <t Contlex="A_" pos="A">былама</t>
+       <t Contlex="A_" pos="A">былама</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">zavaró</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аляк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">zsebkés</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">баки</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">zárkózott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">безэг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">zászlóalj-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">батальонной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">zúzott kő-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бутовой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ábécés</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алфавитной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ábécéskönyv-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">букварной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">áldás nélküli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">берекеттэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">áldásos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">берекето</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">állandó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азьтэм-бертэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">állhatatlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">берло-азьло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ánizs-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">анис</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">áprilisi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">апрель</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">árkos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">árulkodó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алекчи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">árva</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">айытэм-мумытэм</t>
+       <t Contlex="A_" pos="A">айытэм</t>
+       <t Contlex="A_" pos="A">анай-атайтэм</t>
+       <t Contlex="A_" pos="A">анайтэм но атайтэм</t>
+       <t Contlex="A_" pos="A">анайтэм-атайтэм</t>
+       <t Contlex="A_" pos="A">анӥтэм-атайтэм</t>
+       <t Contlex="A_" pos="A">атай-анайтэм</t>
+       <t Contlex="A_" pos="A">атайтэм-анайтэм</t>
+       <t Contlex="A_" pos="A">бубытэм-мумытэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ázsiai</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">азиат</t>
+       <t Contlex="A_" pos="A">азиатской</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">éhes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">армем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">élemedett korú</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арлыдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">élet-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бытовой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">életrajzi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">библиографической</t>
+       <t Contlex="A_" pos="A">биографической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">élénk piros</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">алпыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">építészeti</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">архитектурной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">értelmes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">амаллы</t>
+       <t Contlex="A_" pos="A">амало</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">érthető (beszéd)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асьык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">éves</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аресо</t>
+       <t Contlex="A_" pos="A">аресъем</t>
+       <t Contlex="A_" pos="A">аръем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">írástudatlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">безграмотной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ízes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">ашо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ízetlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">аштэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">önfejű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">асныро</t>
+       <t Contlex="A_" pos="A">асныръем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">önálló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">автономио</t>
+       <t Contlex="A_" pos="A">автономной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">önéletrajzi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">автобиографической</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">öreg</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быдӟым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">örmény-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">армян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ötlettelen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">безыдейной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">úszós</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">бурдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ügyes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">амалак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ügyetlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">быдыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ügyetlen, ostoba</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">берланес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ügynökségi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">агентурной</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">üres</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">буш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ürge-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арлан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ürmös</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арымо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">üröm-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="A_" pos="A">арым</t>
+     </tg>
+   </mg>
+</e>
+</r>

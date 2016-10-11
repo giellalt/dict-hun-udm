@@ -1,0 +1,3691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="hun"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>The material is based on the following dictionary compiled at the University of Szeged, Hungary:
+
+István Kozmác: Udmurt-magyar szótár
+
+transducers by Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>The material was prepared for electronic publication by István Kozmács and Jack Rueter.
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote> </lics>
+
+
+<e>
+   <lg>
+     <l pos="Prc">akaratlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">амалтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">alvó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бабись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">aratott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">арам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">arattató</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">аратӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">arató</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">арась</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">becsavart</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биньылэм</t>
+       <t Contlex="PRC_" pos="Prc">бинялтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">befejezetlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">аналтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">befejezett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдтэм</t>
+       <t Contlex="PRC_" pos="Prc">быдэсмем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">befejeződött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">begombolkozott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бирдыяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">begyűjtött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бичалляськем</t>
+       <t Contlex="PRC_" pos="Prc">бичам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">begöngyölt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биньылэм</t>
+       <t Contlex="PRC_" pos="Prc">бинялтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">bekötött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биньылэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">bekötözött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биньылэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">bemutató</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">адӟытӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">bepelenkázott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бинялтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">bereteszelt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">борӟаськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">besúgó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алекъяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">bevásárló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">басьтӥськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">bevégzett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">bodorodott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бабыльскем</t>
+       <t Contlex="PRC_" pos="Prc">бабыльтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">bodorított</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бабыльтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">bugyborékolt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">bugyborékoló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">bátornak tettetett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">батыръяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">büszkélkedett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">батыръяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">büszkélkedő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">батыръяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">csaló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алдаськем</t>
+       <t Contlex="PRC_" pos="Prc">алдаськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">csiklandozó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бичатӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">csintalan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">актэмъяськись</t>
+       <t Contlex="PRC_" pos="Prc">акыльтэмъяськем</t>
+       <t Contlex="PRC_" pos="Prc">акыльтэмъяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">csintalankodó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">актэмъяськись</t>
+       <t Contlex="PRC_" pos="Prc">акылляськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">csodálandó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">абдрамон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">csodálni való</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">абдрамон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">csomagolt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бинем</t>
+       <t Contlex="PRC_" pos="Prc">биняллям</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">címzett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">адресам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">dadogó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бакчись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">demonstráló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">адӟытӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">desztillált</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">desztilláló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">desztillálódott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥськем</t>
+       <t Contlex="PRC_" pos="Prc">берытскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">dicsekedett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">батыръяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">dicsekvő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">батыръяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">dongó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бозгетӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">dölyfös</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдӟияськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elaludt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бабем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elbizakodott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бадӟымъяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elbizakodó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бадӟымъяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elcsendesedett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">буйгатскем</t>
+       <t Contlex="PRC_" pos="Prc">буйгатъям</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elcsendesítő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">буйгатӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elcsodálkozott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">абдрам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">eldőlt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бекмылляськем</t>
+       <t Contlex="PRC_" pos="Prc">бекмыльтӥськем</t>
+       <t Contlex="PRC_" pos="Prc">бекырскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elfogyasztott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elfáradt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">альсырам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elgyengült</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">альсырам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elhanyagolt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">аналтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">eljegesedett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырдам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elkészült</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elköltött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">ellustult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азгынмем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elmerült</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бекмылляськем</t>
+       <t Contlex="PRC_" pos="Prc">бекмыльтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elpusztítot</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elterjedt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">альтэм</t>
+       <t Contlex="PRC_" pos="Prc">алям</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">eltompult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быгыльмем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">eltúlzott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бадӟыматэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elvadult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">ашкынэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elvesztő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алдась</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elvégzett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elzsírosodott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырдам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elöl haladó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азьмынӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">elöl járó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азьмынӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">előbbre jutott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азьвылтылэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">előre haladó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азьвылскись</t>
+       <t Contlex="PRC_" pos="Prc">азьвылтӥськем</t>
+       <t Contlex="PRC_" pos="Prc">азьвылтӥськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">előrejutott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азинскем</t>
+       <t Contlex="PRC_" pos="Prc">азинтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">ezüstözött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азвесьвуам</t>
+       <t Contlex="PRC_" pos="Prc">азвесям</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">fakult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бездэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">fejlett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азинскем</t>
+       <t Contlex="PRC_" pos="Prc">азинтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">fejlődő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азьланьскем</t>
+       <t Contlex="PRC_" pos="Prc">азьланьтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">felcsavarodott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биниськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">felcsavart</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биньылэм</t>
+       <t Contlex="PRC_" pos="Prc">биняллям</t>
+       <t Contlex="PRC_" pos="Prc">бинялтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">felemésztett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">felfortyant</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырдам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">felgöngyölt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бинялтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">felgöngyölített</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биньылэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">felnőtté vált</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдэсмем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">feltekeredett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биниськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">feltekert</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биньылэм</t>
+       <t Contlex="PRC_" pos="Prc">биняллям</t>
+       <t Contlex="PRC_" pos="Prc">бинялтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">felvágó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдӟымъяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">felé fordult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥськем</t>
+       <t Contlex="PRC_" pos="Prc">берытскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">festett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">буям</t>
+       <t Contlex="PRC_" pos="Prc">буёласькем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">festékessé váló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">буёласькись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">festő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">буясь</t>
+       <t Contlex="PRC_" pos="Prc">буёлась</t>
+       <t Contlex="PRC_" pos="Prc">буёласькись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">figyelmen kívül hagyott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">аналмем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">fonott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">борӟаськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">fordított</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">fordító</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">forgó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бергам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">formált</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бабыльтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">forró</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быректэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">fortyogott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">fortyogó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">furfangos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">амалскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">futó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бызись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">féktelen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">ашкынэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">férjezett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бызем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">fújt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">альтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">gombolyagba tekert</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бордъяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">gomolygott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">gomolygó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">gondozatlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">аналмем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">gyúrt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бабыльтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">gyűjtő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бичась</t>
+       <t Contlex="PRC_" pos="Prc">бичаськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">göndörített</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бабыльтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">göndörödött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бабыльскем</t>
+       <t Contlex="PRC_" pos="Prc">бабыльтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">gőgös</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдӟияськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">haladó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азьланьскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">halott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hamis</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алдам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hamisított</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алдам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hangoskodó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">базлась</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hazatért</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бертэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hazatérő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бертӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hazudó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алдась</t>
+       <t Contlex="PRC_" pos="Prc">алдаськем</t>
+       <t Contlex="PRC_" pos="Prc">алдаськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hemzsegett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hemzsegő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hencegett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">батыръяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hencegő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">батыръяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hozzáértő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быгатӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hullámzott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hullámzó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алляськись</t>
+       <t Contlex="PRC_" pos="Prc">бугыръяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hátra fordult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берланьтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">hátrafordult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берланьскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">ideges</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алекъяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">indulatos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алекъяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">ingerlékeny</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алекъяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">intelligencia nélküli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">амалтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">jósló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">абызаськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kapzsi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алышмем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">keletkezett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алям</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">keletkező</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алясь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kiabáló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">базлась</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kiegyensúlyozatlan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алекъяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kifejlődött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азинтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kificamodott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бералтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kificamosott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бералскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kifordított</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kifordító</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kikerekedett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быгыльмем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kirakott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бушатэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kivirágzott pl. káposzta, retek</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азъяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kiürített</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бушатэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kiürült</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бушам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">koagulált</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥськем</t>
+       <t Contlex="PRC_" pos="Prc">берытскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kuruzsló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">абызаськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">képes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быгатӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">készség</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">амалтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kétségbeesett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">буям</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kétségbeeső</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">буясь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">körbe zümmögött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бызгетэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kötegelt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бинем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">kötekedő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">байланӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">követendő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">адӟымон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lecsillapodott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">буйгатскем</t>
+       <t Contlex="PRC_" pos="Prc">буйгатъям</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lecsillapító</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">буйгатӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">leelőzött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азьвылскем</t>
+       <t Contlex="PRC_" pos="Prc">азьвылтылэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lefordított</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lefordító</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lefutott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бызем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lehagyott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азьвылскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lehagyó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азьвылскись</t>
+       <t Contlex="PRC_" pos="Prc">азьвылтӥськем</t>
+       <t Contlex="PRC_" pos="Prc">азьвылтӥськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lengő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алляськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lepárló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lepárlódott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥськем</t>
+       <t Contlex="PRC_" pos="Prc">берытскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lepárolt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lezüllött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азгынмем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">leégett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">арам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lusta</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">аналскись</t>
+       <t Contlex="PRC_" pos="Prc">аналтӥськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lustálkodó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азьтэмскись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">látható</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">адскымон</t>
+       <t Contlex="PRC_" pos="Prc">адӟиськымон</t>
+       <t Contlex="PRC_" pos="Prc">адӟымон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">látott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">адӟем</t>
+       <t Contlex="PRC_" pos="Prc">адӟиськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">látó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">адӟись</t>
+       <t Contlex="PRC_" pos="Prc">адӟылӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lázadt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">lázadó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megalvadt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥськем</t>
+       <t Contlex="PRC_" pos="Prc">берытскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megcsaló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алдась</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megdermedt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырдам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megdörmögött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бызгетэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megdőlt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бекмылляськем</t>
+       <t Contlex="PRC_" pos="Prc">бекмыльтӥськем</t>
+       <t Contlex="PRC_" pos="Prc">бекырскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megelőzött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азинскем</t>
+       <t Contlex="PRC_" pos="Prc">азинтӥськем</t>
+       <t Contlex="PRC_" pos="Prc">азьвылскем</t>
+       <t Contlex="PRC_" pos="Prc">азьпалтэм</t>
+       <t Contlex="PRC_" pos="Prc">азьпалтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megelőző</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азьвылскись</t>
+       <t Contlex="PRC_" pos="Prc">азьвылтӥськем</t>
+       <t Contlex="PRC_" pos="Prc">азьвылтӥськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megfizetett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megfizető</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megfordított</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megfordító</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">meggyújtató</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">аратӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">meglepett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">абдрам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megnyugodott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">буйгатскем</t>
+       <t Contlex="PRC_" pos="Prc">буйгатъям</t>
+       <t Contlex="PRC_" pos="Prc">буйгатӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megnyugtató</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">буйгатӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megnémuló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бакчись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megnőtt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бадӟыматӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megsiratott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бызгетэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megunt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">акыльтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megvalósult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдэсмем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megvásárolt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">басьяськем</t>
+       <t Contlex="PRC_" pos="Prc">бичалляськем</t>
+       <t Contlex="PRC_" pos="Prc">бичам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megölt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">megörvendeztetett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">абдрам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">mohó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алышмем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">nagyképű</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бадӟымъяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">nagyobbá lett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бадӟыматӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">nagyzolt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдӟымъяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">nagyzoló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдӟымъяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">nagyított</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бадӟыматэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">nagyító</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бадӟыматӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">nem engedelmeskedő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">акыльтэмъяськем</t>
+       <t Contlex="PRC_" pos="Prc">акыльтэмъяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">nevelkedett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">будэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">nyert</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">басьтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">nyerő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">басьтӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">nyüzsgött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">nyüzsgő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">nőtt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">будэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">pajkos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">актэмъяськись</t>
+       <t Contlex="PRC_" pos="Prc">акыльтэмъяськем</t>
+       <t Contlex="PRC_" pos="Prc">акыльтэмъяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">pelenkázott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биньылэм</t>
+       <t Contlex="PRC_" pos="Prc">биняллям</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">poroszkáló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">адымась</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">pólyált</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биняллям</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">rozsnok-</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">rácsavarodott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биниськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">rátekeredett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биниськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">rátekert</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биньылэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">sminkelő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">буёласькись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">stréber</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азьвылтӥськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">szedett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бичалляськем</t>
+       <t Contlex="PRC_" pos="Prc">бичам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">szedő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бичась</t>
+       <t Contlex="PRC_" pos="Prc">бичаськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">szemtelen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">акыльтэмъяськем</t>
+       <t Contlex="PRC_" pos="Prc">акыльтэмъяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">szemtelenkedő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">акылляськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">szenilis lett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берланьтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">szenilissé vált</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берланьскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">szerzett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">басьтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">szerző</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">басьтӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">szeszélyes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырйиськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">szeszélyeskedő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырйиськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">szimulált</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">аналскем</t>
+       <t Contlex="PRC_" pos="Prc">аналтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">szimuláló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">аналскись</t>
+       <t Contlex="PRC_" pos="Prc">аналтӥськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">szárbaszökkent a hagyma</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">азъяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">szédült</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥськем</t>
+       <t Contlex="PRC_" pos="Prc">берытскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">tekert</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бинем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">telhetetlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алышмем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">teljesen lehetséges</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быгатымон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">teljesen megvalósítható</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быгатымон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">teljessé tett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">terjedő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алясь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">tettetett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">амалскем</t>
+       <t Contlex="PRC_" pos="Prc">аналскем</t>
+       <t Contlex="PRC_" pos="Prc">аналтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">tettető</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">амалтӥськем</t>
+       <t Contlex="PRC_" pos="Prc">аналскись</t>
+       <t Contlex="PRC_" pos="Prc">аналтӥськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">tiltott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">tolmácsolt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">tolmácsoló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">trükkök nélküli</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">амалтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">táncoló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бергам</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">tönkre tett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">быдтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">vedlett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бездэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">vett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">басьтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">vevő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">басьтӥсь</t>
+       <t Contlex="PRC_" pos="Prc">басьяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">visszaadott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">visszaadó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">visszafizetett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">visszafizető</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">visszafordult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥськем</t>
+       <t Contlex="PRC_" pos="Prc">берытскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">visszahozott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">visszahozó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">visszamenő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бертӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">visszatért</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бертэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">visszatérő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бертӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">visszavont</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берланьскем</t>
+       <t Contlex="PRC_" pos="Prc">берланьтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">vminek nekiverődött</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">vminek nekiverődő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">választható</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырйымон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">választott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырйиськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">választék</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырйымон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">választó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырйись</t>
+       <t Contlex="PRC_" pos="Prc">бырйиськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">válogatott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырйиськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">válogató</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бырйись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">ványolt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бабыльтэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">vásárló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">басьтӥсь</t>
+       <t Contlex="PRC_" pos="Prc">басьяськись</t>
+       <t Contlex="PRC_" pos="Prc">бичась</t>
+       <t Contlex="PRC_" pos="Prc">бичаськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">vásároltató</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бичатӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">zendült</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">zendülő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бугыръяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">zúgó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бозгетӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">zümmögő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бозгетӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">áramló</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">бызись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">árulkodó</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">алекъяськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">átfordult</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥськем</t>
+       <t Contlex="PRC_" pos="Prc">берытскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">átfordított</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">átfordító</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">átváltozott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">берыктӥськем</t>
+       <t Contlex="PRC_" pos="Prc">берытскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">érdektelen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">аналскись</t>
+       <t Contlex="PRC_" pos="Prc">аналтӥськись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">értő</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">амалтӥськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">összecsavarodott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биниськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">összekuszálódott</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биниськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">összetekeredett</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биниськем</t>
+       <t Contlex="PRC_" pos="Prc">быгыльмем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">összetekert</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">биньылэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">őrizetlen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t Contlex="PRC_" pos="Prc">аналтэм</t>
+     </tg>
+   </mg>
+</e>
+</r>
